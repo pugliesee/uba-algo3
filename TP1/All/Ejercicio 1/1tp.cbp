@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1tp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1ej">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/1ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 1ej"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1ej/fast">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/1ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 1ej/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2ej">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/2ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 2ej"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2ej/fast">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/2ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 2ej/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ej">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/3ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 3ej"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ej/fast">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/3ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 3ej/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4ej">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/4ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 4ej"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4ej/fast">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/4ej" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 4ej/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4ejBT">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/4ejBT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 4ejBT"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4ejBT/fast">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/4ejBT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 4ejBT/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="writeTests">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/writeTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 writeTests"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="writeTests/fast">
+				<Option output="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/writeTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 writeTests/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/1ej.cpp">
+			<Option target="1ej"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/2ej.cpp">
+			<Option target="2ej"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/3ej.cpp">
+			<Option target="3ej"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/4ej.cpp">
+			<Option target="4ej"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/4ej_BT.cpp">
+			<Option target="4ejBT"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/writeTests.cpp">
+			<Option target="writeTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/algo3-tps/1tp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

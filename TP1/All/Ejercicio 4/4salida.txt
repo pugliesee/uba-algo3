@@ -1,0 +1,77 @@
+Tests restantes: 4	---------------------------------
+Costo: 33. Solución:
+12	
+Costo: 21. Solución:
+8	
+Costo: 18. Solución:
+5	
+Costo: 21. Solución:
+2	
+Costo: 27. Solución:
+0	
+18
+5 
+Tests restantes: 3	---------------------------------
+Costo: 17. Solución:
+12	8	
+Costo: 11. Solución:
+12	5	
+Costo: 9. Solución:
+12	2	
+Costo: 11. Solución:
+12	0	
+Costo: 12. Solución:
+8	5	
+Costo: 9. Solución:
+8	2	
+Costo: 9. Solución:
+8	0	
+Costo: 12. Solución:
+5	2	
+Costo: 12. Solución:
+5	0	
+Costo: 19. Solución:
+2	0	
+9
+0 8 
+Tests restantes: 2	---------------------------------
+Costo: 8. Solución:
+12	8	5	
+Costo: 5. Solución:
+12	8	2	
+Costo: 5. Solución:
+12	8	0	
+Costo: 5. Solución:
+12	5	2	
+Costo: 5. Solución:
+12	5	0	
+Costo: 7. Solución:
+12	2	0	
+Costo: 6. Solución:
+8	5	2	
+Costo: 6. Solución:
+8	5	0	
+Costo: 7. Solución:
+8	2	0	
+Costo: 10. Solución:
+5	2	0	
+5
+0 5 12 
+Tests restantes: 1	---------------------------------
+Costo: 2. Solución:
+12	8	5	2	
+Costo: 2. Solución:
+12	8	5	0	
+Costo: 3. Solución:
+12	8	2	0	
+Costo: 3. Solución:
+12	5	2	0	
+Costo: 4. Solución:
+8	5	2	0	
+2
+0 5 8 12 
+Tests restantes: 0	---------------------------------
+Costo: 0. Solución:
+12	8	5	2	0	
+0
+0 2 5 8 12 

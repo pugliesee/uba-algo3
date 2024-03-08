@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2tp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1ej::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1ej-Debug-f2f0fca91ebe5f084a71.json",
+					"name" : "1ej",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2ej::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2ej-Debug-da5e3ecd563846676493.json",
+					"name" : "2ej",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/tps/algo3-tps/2tp/cmake-build-debug",
+		"source" : "/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/tps/algo3-tps/2tp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

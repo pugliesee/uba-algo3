@@ -1,0 +1,4 @@
+/home/clinux01/Escritorio/dassda/algo3-tps/3tp/cmake-build-debug/CMakeFiles/1ej.dir
+/home/clinux01/Escritorio/dassda/algo3-tps/3tp/cmake-build-debug/CMakeFiles/3ej.dir
+/home/clinux01/Escritorio/dassda/algo3-tps/3tp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/clinux01/Escritorio/dassda/algo3-tps/3tp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

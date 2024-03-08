@@ -1,0 +1,7 @@
+/home/clinux01/Escritorio/sasdads/algo3-tps/2tp/CMakeFiles/1ej.dir
+/home/clinux01/Escritorio/sasdads/algo3-tps/2tp/CMakeFiles/1ej_Ian.dir
+/home/clinux01/Escritorio/sasdads/algo3-tps/2tp/CMakeFiles/2ej.dir
+/home/clinux01/Escritorio/sasdads/algo3-tps/2tp/CMakeFiles/3ej.dir
+/home/clinux01/Escritorio/sasdads/algo3-tps/2tp/CMakeFiles/3_test.dir
+/home/clinux01/Escritorio/sasdads/algo3-tps/2tp/CMakeFiles/edit_cache.dir
+/home/clinux01/Escritorio/sasdads/algo3-tps/2tp/CMakeFiles/rebuild_cache.dir

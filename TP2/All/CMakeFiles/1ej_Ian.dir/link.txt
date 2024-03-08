@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/1ej_Ian.dir/1ej_Ian.cpp.o -o 1ej_Ian 

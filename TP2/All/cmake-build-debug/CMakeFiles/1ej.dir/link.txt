@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/1ej.dir/1ej.cpp.o -o 1ej 

@@ -1,0 +1,4 @@
+/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/tps/algo3-tps/2tp/cmake-build-debug/CMakeFiles/1ej.dir
+/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/tps/algo3-tps/2tp/cmake-build-debug/CMakeFiles/2ej.dir
+/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/tps/algo3-tps/2tp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ibeda/OneDrive/Escritorio/Algo3/tps/algo3-tps/2tp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
